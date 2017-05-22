@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body>git test
 <h2>1개 사진 업로드폼</h2>
 <form action="${initParam.rootPath }/imageupload" method="post" enctype="multipart/form-data">
 	업로더 : <input type="text" name="uploader"><br>
